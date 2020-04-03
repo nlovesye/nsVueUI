@@ -3,7 +3,7 @@
     <div id="nav">
       <router-link to="/">Home</router-link>|
       <router-link to="/about">About</router-link>
-      <Button>my button</Button>
+      <Button type="da2nger">my button</Button>
     </div>
     <!-- <router-view /> -->
   </div>

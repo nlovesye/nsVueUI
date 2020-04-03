@@ -4,6 +4,7 @@ import './registerServiceWorker'
 import router from './router'
 import store from './store'
 import nsVueUI from '../packages/index'
+import './index.less'
 
 Vue.use(nsVueUI)
 
